@@ -1,0 +1,12 @@
+{
+    "go.buildOnSave": "package",
+    "go.lintOnSave": "file",
+    "go.vetOnSave": "package",
+    "go.buildFlags": [],
+    "go.lintFlags": [],
+    "go.vetFlags": [],
+    "go.coverOnSave": false,
+    "go.useCodeSnippetsOnFunctionSuggest": false,
+    "go.formatOnSave": true,
+    "go.formatTool": "goreturns"
+}
