@@ -1,10 +1,11 @@
 {
   "recommendations": [
     "ms-vscode-remote.remote-containers",
-    "golang.go",
     "eamodio.gitlens",
     "visualstudioexptteam.vscodeintellicode",
-    "ibm.output-colorizer",
-    "ms-azuretools.vscode-docker"
+    "ms-azuretools.vscode-docker",
+    "coenraads.bracket-pair-colorizer-2",
+    "golang.go",
+    "wayou.vscode-todo-highlight"
   ]
 }
